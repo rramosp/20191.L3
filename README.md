@@ -25,7 +25,7 @@ weekstart week#   18-210     20-343      19-305                      deadlines (
   09/sep   11     TALLER     TALLER      10 algos sobre grafos 2	
   16/sep   12     TALLER     TALLER      11 algos genéticos
   23/sep   13     TALLER     TALLER      12 simulated annealing
-  30/sep   14     prep       parcial-3   SEMINAR                     TALLERES 9-12, MOOC ENTREGA FINAL
+  30/sep   14     prep       parcial-3                               TALLERES 9-12, MOOC ENTREGA FINAL
 ```
 
 **calendario**
