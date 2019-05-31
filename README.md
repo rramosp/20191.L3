@@ -8,25 +8,25 @@
 ```
                   ------------- CLASSROOMS --------------------
                   MON        TUE         THU
-weekstart week#   18-210     20-343	   19-305                      deadlines (domingo 11pm)
+weekstart week#   18-210     20-343	     19-305                      deadlines (domingo 11pm)
   05/jun    0                            welcome
   10/jun    1     intro      python      01 TAD, lista	
-  17/jun    2     TALLER     TALLER	   02 polinomios 	
-  24/jun    3     FESTIVO    TALLER	   03 matrices dispersas 	
-  01/jul    4     FESTIVO    TALLER	   04 repr in memoria	
-  08/jul    5     TALLER     TALLER	   prep parcial              
+  17/jun    2     TALLER     TALLER	     02 polinomios 	
+  24/jun    3     FESTIVO    TALLER  	   03 matrices dispersas 	
+  01/jul    4     FESTIVO    TALLER	     04 repr in memoria	
+  08/jul    5     TALLER     TALLER	     prep parcial              
   15/jul    6     TALLER     parcial-1   05 listas generalizadas    TALLERES 1-4, MOOC ENTREGA 1
-  22/jul    7     TALLER     TALLER	   06 árboles, binarios	
-  29/jul    8     TALLER     TALLER	   TALLER
-  05/ago    9     TALLER     TALLER	   07 árboles y búsqueda	
-  12/ago   10     TALLER     TALLER	   08 grafos	
-  19/ago   11     FESTIVO    TALLER	   prep parcial              TALLERES 5-8
+  22/jul    7     TALLER     TALLER  	   06 árboles, binarios	
+  29/jul    8     TALLER     TALLER	     TALLER
+  05/ago    9     TALLER     TALLER	     07 árboles y búsqueda	
+  12/ago   10     TALLER     TALLER  	   08 grafos	
+  19/ago   11     FESTIVO    TALLER	     prep parcial              TALLERES 5-8
   26/ago   12     TALLER     parcial-2   09 algos sobre grafos 1	
-  02/sep   13     TALLER     TALLER	   10 algos sobre grafos 2	
-  09/sep   14     TALLER     TALLER	   11 algos genéticos
-  16/sep   15     TALLER     TALLER	   12 simulated annealing	
-  23/sep   16     TALLER     TALLER	   prep parcial              TALLERES 9-12, MOOC ENTREGA FINAL
-  30/sep  17      TALLER    parcial-3			
+  02/sep   13     TALLER     TALLER	     10 algos sobre grafos 2	
+  09/sep   14     TALLER     TALLER	     11 algos genéticos
+  16/sep   15     TALLER     TALLER	     12 simulated annealing	
+  23/sep   16     TALLER     TALLER	     prep parcial              TALLERES 9-12, MOOC ENTREGA FINAL
+  30/sep  17      TALLER      parcial-3			
 ```
 
 **calendario**
