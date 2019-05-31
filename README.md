@@ -20,7 +20,7 @@ weekstart week#   18-210     20-343      19-305                      deadlines (
   29/jul    6     parcial-1  TALLER      05 listas generalizadas     
   05/ago    7     TALLER     TALLER      06 árboles, binarios	
   19/ago    8     FESTIVO    TALLER      07 árboles y búsqueda
-  26/ago    9     TALLER     TALLER      08 grafos	                 TALLERES 5-8
+  26/ago    9     TALLER     TALLER      08 grafos                   TALLERES 5-8
   02/sep   10     prep       parcial-2   09 algos sobre grafos 1     
   09/sep   11     TALLER     TALLER      10 algos sobre grafos 2	
   16/sep   12     TALLER     TALLER      11 algos genéticos
