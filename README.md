@@ -1,37 +1,45 @@
 # Lógica y estructuras III
-### 2018 - Semestre II - Universidad de Antioquia
+### 2019 - Semestre I - Universidad de Antioquia
 
 ### [REGISTRATE AQUI](https://goo.gl/forms/Ek9gDLO2vLpXpLaf2)
 
 ## Programa
-             week LIS        DRAI	       SALON                     deadlines (domingo 11pm)
-      23/Jul  1   intro      python      1 TAD, lista	
-      30/Jul  2   TALLER     TALLER	     2 polinomios 	
-       6/Aug  3   TALLER     TALLER	     3 matrices dispersas 	
-      13/Aug  4   TALLER     TALLER	     4 repr in memoria	
-      20/Aug  5   FESTIVO    TALLER	     prep parcial              
-      27/Aug  6   TALLER     parcial-1   5 listas generalizadas    TALLERES 1-4, MOOC ENTREGA 1 (lunes 27/ag 11pm)
-       3/Sep  7   TALLER     TALLER	     6 árboles, binarios	
-      10/Sep  8   TALLER     TALLER	     TALLER
-      17/Sep  8   TALLER     TALLER	     7 árboles y búsqueda	
-      24/Sep  9   TALLER     TALLER	     8 grafos	
-       1/Oct  10  TALLER     TALLER	     prep parcial              TALLERES 5-8 (lunes 8/oct 11pm)
-       8/Oct  11  TALLER     parcial-2	 9 algos sobre grafos 1	
-      15/Oct  12  TALLER     TALLER	     10 algos sobre grafos 2	
-      22/Oct  13  FESTIVO    TALLER	     11 divide y venceras	
-      29/Oct  14  TALLER     TALLER	     12 prog dinamica y ávida	
-       5/Nov  15  TALLER     TALLER	     prep parcial              TALLERES 9-12, MOOC ENTREGA FINAL
-      12/Nov  16  FESTIVO    parcial-3		
+
+```
+                  ------------- CLASSROOMS --------------------
+                  MON        TUE         THU
+weekstart week#   18-210     20-343	   19-305                      deadlines (domingo 11pm)
+  05/jun    0                            welcome
+  10/jun    1     intro      python      01 TAD, lista	
+  17/jun    2     TALLER     TALLER	   02 polinomios 	
+  24/jun    3     FESTIVO    TALLER	   03 matrices dispersas 	
+  01/jul    4     FESTIVO    TALLER	   04 repr in memoria	
+  08/jul    5     TALLER     TALLER	   prep parcial              
+  15/jul    6     TALLER     parcial-1   05 listas generalizadas    TALLERES 1-4, MOOC ENTREGA 1
+  22/jul    7     TALLER     TALLER	   06 árboles, binarios	
+  29/jul    8     TALLER     TALLER	   TALLER
+  05/ago    9     TALLER     TALLER	   07 árboles y búsqueda	
+  12/ago   10     TALLER     TALLER	   08 grafos	
+  19/ago   11     FESTIVO    TALLER	   prep parcial              TALLERES 5-8
+  26/ago   12     TALLER     parcial-2   09 algos sobre grafos 1	
+  02/sep   13     TALLER     TALLER	   10 algos sobre grafos 2	
+  09/sep   14     TALLER     TALLER	   11 algos genéticos
+  16/sep   15     TALLER     TALLER	   12 simulated annealing	
+  23/sep   16     TALLER     TALLER	   prep parcial              TALLERES 9-12, MOOC ENTREGA FINAL
+  30/sep  17      TALLER    parcial-3			
+```
 
 **calendario**
 
-      23 Jul           inicio clases
-      15 Sep           cancelacion 40%
-      12 Nov           terminación clases
-      12 nov - 17 nov  exámenes finales
-      18 nov - 24 nov  habilitaciones
-      25 Nov           terminación clases
-      
+       5 jun           inicio clases
+      12 ago           40% evaluación (recomendado)
+      12 oct           finalización de las clases
+      14 oct           fecha límite cierre notas finales
+      14-19 oct        habilitaciones
+      21-16 oct        validación y reporte de notas
+      28 oct           cierre oficial semestre
+    
+
 ## Evaluación
 
 - 40% talleres
@@ -67,5 +75,5 @@ Usaremos esta máquina virtual que tiene instalado un entorno Python Anaconda co
 
 - Si tu máquina física tiene al menos 4GB de memoria configura la máquina virtual **con 2GB de memoria**
 - Aunque casi no necesitarás un terminal, el interfaz de Jupyter Notebooks tiene un terminal para acceder a través del navegador. En cualquier caso, la máquina virtual tiene un servidor SSH en el puerto 2222 con user/user como usuario y pwd. Si tu máquina física es mac o linux usa `ssh -p 2222 user@localhost` para conectarte. Si es Windows, usa [putty](https://www.putty.org/)
-- Si compartes una carpeta entre la física y virtual asegúrate que **el nombre con el que se comparte** sea `share` (aunque el nombre de la carpeta en la máquina física puede ser distinto)
+- Si compartes una carpeta entre la física y virtual asegúrate que **el nombre con el que se comparte** sea `share` (aunque el nombre de la carpeta en la máquina física sea distinto) para que aparezca bajo `/home/user/share` en la máquina virtual.
 
