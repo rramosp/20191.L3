@@ -1,7 +1,7 @@
 # Lógica y estructuras III
 ### 2019 - Semestre I - Universidad de Antioquia
 
-### [REGISTRATE AQUI](https://goo.gl/forms/Ek9gDLO2vLpXpLaf2)
+### [REGISTRATE AQUI](https://forms.gle/2bun4sz8pTgbYnKS8)
 
 ## Programa
 
