@@ -16,8 +16,8 @@ weekstart week#   18-210     20-343      19-305                      deadlines (
   --------------------- VACACIONES --------------------------------
   08/jul    3     TALLER     TALLER      03 matrices dispersas 	
   15/jul    4     TALLER     TALLER      04 repr in memoria	
-  22/jul    5     TALLER     TALLER      prep parcial                TALLERES 1-4, MOOC ENTREGA 1
-  29/jul    6     parcial-1  TALLER      05 listas generalizadas     
+  22/jul    5     TALLER     TALLER      prep parcial                MOOC ENTREGA 1
+  29/jul    6     parcial-1  TALLER      05 listas generalizadas     TALLERES 1-4
   05/ago    7     TALLER     TALLER      06 árboles, binarios	
   19/ago    8     FESTIVO    TALLER      07 árboles y búsqueda
   26/ago    9     TALLER     TALLER      08 grafos                   TALLERES 5-8
