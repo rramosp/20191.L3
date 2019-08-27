@@ -5,6 +5,7 @@
 
 ## Programa
 
+
 ```
                   ------------- CLASSROOMS --------------------
                   MON        TUE         THU
@@ -19,13 +20,15 @@ weekstart week#   18-210     20-343      19-305                      deadlines (
   22/jul    5     TALLER     TALLER      prep parcial                MOOC ENTREGA 1
   29/jul    6     parcial-1  TALLER      05 listas generalizadas     TALLERES 1-4
   05/ago    7     TALLER     TALLER      06 árboles, binarios	
-  19/ago    8     FESTIVO    TALLER      07 árboles y búsqueda
-  26/ago    9     TALLER     TALLER      08 grafos                   TALLERES 5-8
-  02/sep   10     prep       parcial-2   09 algos sobre grafos 1     
-  09/sep   11     TALLER     TALLER      10 algos sobre grafos 2	
-  16/sep   12     TALLER     TALLER      11 algos genéticos
-  23/sep   13     TALLER     TALLER      12 simulated annealing
-  30/sep   14     prep       parcial-3                               TALLERES 9-12, MOOC ENTREGA FINAL
+  12/ago    8     TALLER     TALLER      07 árboles y búsqueda
+  19/ago    9     FESTIVO    TALLER      08 grafos                   
+  26/ago   10     TALLER     TALLER      prep                         TALLERES 5-8
+  02/sep   11     TALLER     parcial-2   09 algos sobre grafos 1     
+  09/sep   12     TALLER     TALLER      10 algos sobre grafos 2	
+  16/sep   13     TALLER     TALLER      11 algos genéticos
+  23/sep   14     TALLER     TALLER      12 simulated annealing
+  30/sep   15     prep       parcial-3                               TALLERES 9-12
+  06/oct   16     TALLER     TALLER                                  MOOC ENTREGA FINAL (mie 9/oct)
 ```
 
 **calendario**
